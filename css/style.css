@@ -1,0 +1,11 @@
+@charset "utf-8";
+.img_style{
+    width:323px;
+    height:327px;
+    text-align: center;
+    object-fit: contain;
+    padding-top:60px;
+    background-image:url("../img/gaku.png");
+    background-repeat:no-repeat;
+}
+
